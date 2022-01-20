@@ -6,7 +6,7 @@ The purpose of this lab is to prepare your environment for C development using O
 ## Installation
 The recommended operating system is Linux. However, Windows and macOS are also supported. This section will guide you to install the tools and libraries required to complete the lab work for this course. Specifically, you will need to install:
 
-- A C compiler (e.g., GNU GCC)
+- A C compiler (e.g., GNU gcc)
 - The OpenMPI library
 - The `git` command line tool
 
