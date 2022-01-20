@@ -1,7 +1,7 @@
 # Lab 0: OpenMPI Setup
 ### Due: January 27, 11:59 PM
 
-The purpose of this lab is to prepare your environment for C development using OpenMPI, and to get yourself familiar with Git and GitHub.
+The purpose of this lab is to prepare your environment for C development using OpenMPI and to get yourself familiar with Git and GitHub.
 
 ## Installation
 The recommended operating system is Linux. However, Windows and macOS are also supported. This section will guide you through the installation of the tools and libraries required to complete the lab work. Specifically, you will need to install:
