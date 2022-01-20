@@ -94,4 +94,4 @@ git add hello_mpi.c
 git commit -m 'completed task 1'
 git push -u origin master
 ```
-Go to your repository on Github and make sure that your changes were succesfully commited. 
+Go to your repository on Github and make sure all changes were commited succesfully. 
