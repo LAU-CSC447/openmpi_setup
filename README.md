@@ -79,8 +79,8 @@ Hello world from processor Karims-MacBook-Air.local, rank 3 out of 4 processors
 Complete the tasks below
 
 ### Task 1
-Modify `hello_mpi.c` to print 'Hello CSC447 from...' instead of 'Hello world from...'. Compile and test your program.
-For example:
+Modify `hello_mpi.c` to print 'Hello CSC447 from...' instead of 'Hello world from...'
+Compile and test your program. Example output:
 ```
 Hello CSC447 from processor Karims-MacBook-Air.local, rank 0 out of 4 processors
 Hello CSC447 from processor Karims-MacBook-Air.local, rank 1 out of 4 processors
