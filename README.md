@@ -10,7 +10,7 @@ The recommended operating system is Linux. However, Windows and macOS are also s
 - The OpenMPI library
 - The `git` command line tool
 
-Follow the instructions below depending on your operating system.
+Follow the instructions appropriate to your operating system.
 
 ### Linux
 The example below is for Debian-based distributions (e.g., Ubuntu).
