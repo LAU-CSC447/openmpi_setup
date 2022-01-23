@@ -76,6 +76,14 @@ Hello world from processor Karims-MacBook-Air.local, rank 2 out of 4 processors
 Hello world from processor Karims-MacBook-Air.local, rank 3 out of 4 processors
 ```
 
+## Troubleshooting
+If you get a 'not enough slots' error when running `mpirun` then you probably have less than 4 cores available on your system. You can either reduce the number of processes (i.e., the `-np` argument) or simply add the `--oversubscribe` flag. e.g.,
+```
+mpirun --oversubscribe -np 4 hello
+```
+
+`--oversubscribe` forces mpirun to create the number of processes specified using `-np` regardless of the number of processing units available. The processes will end up sharing whatever cores you have available on your system. Obviously, this will hurt performance (you shouldn't see a meaningful speedup), but it's fine for our purposes.
+
 ## Tasks
 Complete the tasks below
 
