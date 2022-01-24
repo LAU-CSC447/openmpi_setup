@@ -40,6 +40,7 @@ brew install open-mpi
 
 ### Windows
 OpenMPI can be installed using [Cygwin](https://cygwin.com):
+- Download and install Git: https://git-scm.com
 - Download and run the Cygwin installer: https://cygwin.com/setup-x86_64.exe
 - During the installation process, choose the following packages:
   - `gcc-core` from the Devel category
