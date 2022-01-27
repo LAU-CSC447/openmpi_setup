@@ -42,13 +42,13 @@ brew install open-mpi
 OpenMPI can be installed using [Cygwin](https://cygwin.com):
 - Download and install Git: https://git-scm.com
 - Download and run the Cygwin installer: https://cygwin.com/setup-x86_64.exe
-- During the installation process, choose the following packages:
-  - `gcc-core` from the Devel category
-  - `libopenmpi-devel` and `zlib-devel` from the Libs category
-  - `openssh` from the Net category
-  - `libevent-devel` from the Devel category
-  - `zlib-devel` from the Devel category
-  - `libhwloc-devel` from the Utils category
+- During the installation process, search for and choose the following packages:
+  - `gcc-core`
+  - `libopenmpi-devel`
+  - `zlib-devel`
+  - `openssh`
+  - `libevent-devel`
+  - `libhwloc-devel`
 - You may need to add the Cygwin bin directory to the PATH enviromental variable. Here's a video that demonstrates this process: https://www.youtube.com/watch?v=x8x02BjKvpU
   
 ## Testing
