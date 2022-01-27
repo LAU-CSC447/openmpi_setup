@@ -47,6 +47,7 @@ OpenMPI can be installed using [Cygwin](https://cygwin.com):
   - `libopenmpi-devel` and `zlib-devel` from the Libs category
   - `openssh` from the Net category
   - `libevent-devel` from the Devel category
+  - `zlib-devel` from the Devel category
   - `libhwloc-devel` from the Utils category
 - You may need to add the Cygwin bin directory to the PATH enviromental variable. Here's a video that demonstrates this process: https://www.youtube.com/watch?v=x8x02BjKvpU
   
